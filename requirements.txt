@@ -1,0 +1,3 @@
+discord.py
+Flask
+nest_asyncio
